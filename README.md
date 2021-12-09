@@ -34,7 +34,7 @@ def gcd():
 
 ## Output: 
 ### Expectations:
-![gcd of two number](gcd.png)
+![gcd of two number](gcd.PNG)
 ### Answer: 
 ![answer](answer.png)
 
